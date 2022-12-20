@@ -1,0 +1,15 @@
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.csproj.AssemblyReference.cache
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.GeneratedMSBuildEditorConfig.editorconfig
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.AssemblyInfoInputs.cache
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.AssemblyInfo.cs
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.csproj.CoreCompileInputs.cache
+C:\kruglov\РаботаНаУроке\bin\Debug\net7.0\РаботаНаУроке.exe
+C:\kruglov\РаботаНаУроке\bin\Debug\net7.0\РаботаНаУроке.deps.json
+C:\kruglov\РаботаНаУроке\bin\Debug\net7.0\РаботаНаУроке.runtimeconfig.json
+C:\kruglov\РаботаНаУроке\bin\Debug\net7.0\РаботаНаУроке.dll
+C:\kruglov\РаботаНаУроке\bin\Debug\net7.0\РаботаНаУроке.pdb
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.dll
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\refint\РаботаНаУроке.dll
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.pdb
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\РаботаНаУроке.genruntimeconfig.cache
+C:\kruglov\РаботаНаУроке\obj\Debug\net7.0\ref\РаботаНаУроке.dll
